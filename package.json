@@ -1,0 +1,20 @@
+{
+  "name": "repositorio-portifolio",
+  "version": "1.0.0",
+  "description": "Repository for my development study and learn HTML,CSS and JavaScript\r I'm a new developer thanks!!",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaswurschig/repositorio-portifolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaswurschig/repositorio-portifolio/issues"
+  },
+  "homepage": "https://github.com/lucaswurschig/repositorio-portifolio#readme"
+}
